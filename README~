@@ -3,6 +3,5 @@ Device:
 testCharDevice.c
 Makefile
 Test:
-userapplication.c
 
 
